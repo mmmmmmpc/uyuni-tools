@@ -18,7 +18,6 @@ func main() {
 		fmt.Printf("Error: %v\n", err)
 		os.Exit(1)
 	}
-	}
 	// Command-line options
 	user := flag.String("user", "", "SUSE Manager username")
 	password := flag.String("password", "", "SUSE Manager password")
