@@ -2,9 +2,9 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/uyuni-project/uyuni-tools/shared/types"
-	"github.com/uyuni-project/uyuni-tools/uyunictl/cmd/cp"
-	"github.com/uyuni-project/uyuni-tools/uyunictl/cmd/exec"
+	"github.com/uyuni-project/mmmmmmpc/shared/types"
+	"github.com/uyuni-project/mmmmmmpc/uyunictl/cmd/cp"
+	"github.com/uyuni-project/mmmmmmpc/uyunictl/cmd/exec"
 )
 
 // NewCommand returns a new cobra.Command implementing the root command for kinder

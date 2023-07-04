@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/spf13/cobra v1.1.3
-	github.com/uyuni-project/uyuni-tools v0.0.0-20230413162335-7b11cfcb4d29
+	github.com/mmmmmmpc/uyuni-tools v0.0.0-20230413162335-7b11cfcb4d29
 )
 
 require (
