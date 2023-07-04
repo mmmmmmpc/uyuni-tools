@@ -1,8 +1,11 @@
-module github.com/uyuni-project/uyuni-tools
+module github.com/mmmmmmpc/uyuni-tools
 
 go 1.19
 
-require github.com/spf13/cobra v1.1.3
+require (
+	github.com/spf13/cobra v1.1.3
+	github.com/uyuni-project/uyuni-tools v0.0.0-20230413162335-7b11cfcb4d29
+)
 
 require (
 	github.com/fsnotify/fsnotify v1.4.7 // indirect
